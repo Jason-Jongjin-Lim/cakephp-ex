@@ -15,7 +15,7 @@
     + [Compatibility](#compatibility)
     + [License](#license)
 
-<!-- tocp -->
+<!-- tocp edit-->
 
 CakePHP Sample App on OpenShift
 ===============================
